@@ -54,6 +54,10 @@ ACC = 0.9700 NMI = 0.8713 PUR=0.9700 ARI = 0.9126
 Saving model...
 ```
 
+## Experiment Results:
+<img src="https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/Table.png"  width="740"  />
+<img src="https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/FigVisual.png"  width="600"  />
+
 ## Citation
 
 If you find our work useful in your research, please consider citing:
