@@ -66,9 +66,9 @@ Saving model...
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table.png"  width="897"  />
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/convergence-analysis-and-parameter analysis.png"  width="897"  />
 
-## 6.Reference
+## 6.Citation
 
-If you find our work useful in your research, please cite the following paper:
+If you find our work useful in your research, please consider citing:
 
 ```latex
 @InProceedings{Yan_2023_CVPR,
