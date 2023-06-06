@@ -60,7 +60,7 @@ Saving model...
 
 ## Citation
 
-If you find our work useful in your research, please consider citing:
+If you find our work useful in your research, please cite the following paper:
 
 ```latex
 @InProceedings{Yan_2023_CVPR,
