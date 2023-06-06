@@ -12,7 +12,6 @@ This repo contains the code and data of our CVPR'2023 paper [GCFAgg: Global and 
 The overall framework. Our module includes global and cross-view feature aggregation module (GCFAgg) and structure-guided multiview contrastive learning module (SgCL). 
 The former learns a consensus representation via considering global structure relationship among samples, which fully explores the complementary of similar samples. 
 The latter integrates the learnt global structure relationship and consensus representation to contrastive learning, which makes data representations in the same cluster similar and addresses the aforementioned second issue in the introduction. 
-
 Note that, EC: Encoder; DC: Decoder; Cat:Concatenation; MLP: Multi-Layer Perception.
 
 ## 2.Requirements
