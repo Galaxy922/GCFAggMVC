@@ -26,11 +26,16 @@ The Synthetic3d, Prokaryotic, and MNIST-USPS datasets are placed in "data" folde
 
 The code includes:
 
-- an example implementation of the model,
-- an example clustering task for different missing rates.
+- an example for train the model：
 
 ```bash
-python run.py --dataset 0 --devices 0 --print_num 100 --test_time 5
+python run.py
+```
+
+- an example  for test the trained model:
+
+```bash
+python test.py
 ```
 
 You can get the following output:
