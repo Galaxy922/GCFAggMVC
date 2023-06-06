@@ -1,4 +1,6 @@
 ## GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering
+> **Authors:**
+Yan, Weiqing and Zhang, Yuanyang and Lv, Chenlei and Tang, Chang and Yue, Guanghui and Liao, Liang and Lin, Weisi
 
 This repo contains the code and data of our CVPR'2023 paper GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering.
 
