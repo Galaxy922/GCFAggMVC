@@ -63,8 +63,8 @@ Saving model...
 ```
 
 ## 5.Experiment Results
-<img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table.png"  width="897"  />
-<img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/convergence-analysis-and-parameter analysis.png"  width="897"  />
+<img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table1.png"  width="897"  />
+<img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table2.png"  width="897"  />
 
 ## 6.Citation
 
