@@ -26,7 +26,7 @@ The Synthetic3d, Prokaryotic, and MNIST-USPS datasets are placed in "data" folde
 
 The code includes:
 
-- an example for train the model：
+- an example for train a new model：
 
 ```bash
 python run.py
