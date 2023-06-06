@@ -1,16 +1,12 @@
 ## GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering
 
-
 This repo contains the code and data of our CVPR'2023 paper GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering.
-
 
 > [GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf)
 
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Framework.png"  width="897" height="317" />
 
 ## Requirements
-
-python=3.7.1
 
 pytorch=1.12.1
 
