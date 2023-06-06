@@ -1,7 +1,7 @@
-# [GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.html）
+## GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering
 
 
-This repo contains the code and data of our CVPR'2023 paper GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering. 
+This repo contains the code and data of our CVPR'2023 paper [GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2023/html/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.html). 
 
 
 > [GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_GCFAgg_Global_and_Cross-View_Feature_Aggregation_for_Multi-View_Clustering_CVPR_2023_paper.pdf)
