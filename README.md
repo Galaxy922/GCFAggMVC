@@ -55,8 +55,8 @@ Saving model...
 ```
 
 ## Experiment Results:
-<img src="https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/Table.png"  width="740"  />
-<img src="https://github.com/PengxinZeng/2023-CVPR-FCMI/blob/main/FigVisual.png"  width="600"  />
+<img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table.png"  width="740"  />
+<img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/convergence-analysis-and-parameter analysis.png"  width="600"  />
 
 ## Citation
 
