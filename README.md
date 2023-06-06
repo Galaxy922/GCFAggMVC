@@ -73,6 +73,6 @@ If you find our work useful in your research, please consider citing:
 }
 ```
 
-## If you have any problems, contact me via zhangyuanyang922@gmail.com.
+If you have any problems, contact me via zhangyuanyang922@gmail.com.
 
 
