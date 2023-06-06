@@ -10,17 +10,17 @@ This repo contains the code and data of our CVPR'2023 paper GCFAgg: Global and C
 
 ## Requirements
 
-pytorch==1.2.0 
+python=3.7.1
 
-numpy>=1.19.1
+pytorch=1.12.1=py3.7_cuda11.3_cudnn8_0 
 
-scikit-learn>=0.23.2
+numpy>=1.21.6
 
-munkres>=1.1.4
+scikit-learn>=1.0.2
 
 ## Datasets
 
-The Caltech101-20, LandUse-21, and Scene-15 datasets are placed in "data" folder. The NoisyMNIST dataset could be downloaded from [cloud](https://drive.google.com/file/d/1b__tkQMHRrYtcCNi_LxnVVTwB-TWdj93/view?usp=sharing).
+The Synthetic3d, Prokaryotic, and MNIST-USPS datasets are placed in "data" folder. The others dataset could be downloaded from [cloud](https://pan.baidu.com/s/1XNWW8UqTcPMkw9NpiKqvOQ).
 
 ## Usage
 
