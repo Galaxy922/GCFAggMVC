@@ -72,6 +72,7 @@ If you find our work useful in your research, please consider citing:
     pages     = {19863-19872}
 }
 ```
+
 ## For any problems, contact me via zhangyuanyang922@gmail.com.
 
 <!-- # This is the sources codes for the paper: Weiqing Yan, Yuanyang Zhang, Chenlei Lv, Chang Tang, Guanghui Yue, Weisi Lin. GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering, IEEE CVPR 2023 Accept.
@@ -99,5 +100,6 @@ If you find our work useful in your research, please consider citing:
 }
 ```
 
-# If you find the code is useful, please cite the above paper. For any problems, contact me via zhangyuanyang922@gmail.com.
+# If you find the code is useful, please cite the above paper. For any problems, contact me via >zhangyuanyang922@gmail.com.
+
  -->
