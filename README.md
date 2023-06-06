@@ -15,7 +15,7 @@ among samples, which fully explores the complementary of similar samples. The la
 and consensus representation to contrastive learning, which makes data representations in the same cluster similar and addresses the
 aforementioned second issue in the introduction. Note that, EC: Encoder; DC: Decoder; Cat: Concatenation; MLP: Multi-Layer Perception.
 
-## Requirements
+## 2.Requirements
 
 pytorch=1.12.1
 
@@ -23,11 +23,11 @@ numpy>=1.21.6
 
 scikit-learn>=1.0.2
 
-## Datasets
+## 3.Datasets
 
 The Synthetic3d, Prokaryotic, and MNIST-USPS datasets are placed in "data" folder. The others dataset could be downloaded from [cloud](https://pan.baidu.com/s/1XNWW8UqTcPMkw9NpiKqvOQ).
 
-## Usage
+## 4.Usage
 
 The code includes:
 
@@ -63,11 +63,11 @@ ACC = 0.9700 NMI = 0.8713 PUR=0.9700 ARI = 0.9126
 Saving model...
 ```
 
-## Experiment Results:
+## 5.Experiment Results:
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table.png"  width="897"  />
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/convergence-analysis-and-parameter analysis.png"  width="897"  />
 
-## Reference
+## 6.Reference
 
 If you find our work useful in your research, please cite the following paper:
 
