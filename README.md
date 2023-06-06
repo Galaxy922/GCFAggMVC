@@ -12,7 +12,7 @@ This repo contains the code and data of our CVPR'2023 paper GCFAgg: Global and C
 
 python=3.7.1
 
-pytorch=1.12.1=py3.7_cuda11.3_cudnn8_0 
+pytorch=1.12.1
 
 numpy>=1.21.6
 
