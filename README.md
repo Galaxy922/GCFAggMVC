@@ -100,6 +100,6 @@ If you find our work useful in your research, please consider citing:
 }
 ```
 
-# If you find the code is useful, please cite the above paper. For any problems, contact me via >zhangyuanyang922@gmail.com.
+# If you find the code is useful, please cite the above paper. For any problems, contact me via zhangyuanyang922@gmail.com.
 
  -->
