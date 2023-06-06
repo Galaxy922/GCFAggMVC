@@ -16,7 +16,7 @@ Note that, EC: Encoder; DC: Decoder; Cat:Concatenation; MLP: Multi-Layer Percept
 
 ## 2.Requirements
 
-pytorch=1.12.1
+pytorch==1.12.1
 
 numpy>=1.21.6
 
