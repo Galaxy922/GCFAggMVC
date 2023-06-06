@@ -62,7 +62,7 @@ ACC = 0.9700 NMI = 0.8713 PUR=0.9700 ARI = 0.9126
 Saving model...
 ```
 
-## 5.Experiment Results:
+## 5.Experiment Results
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table.png"  width="897"  />
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/convergence-analysis-and-parameter analysis.png"  width="897"  />
 
