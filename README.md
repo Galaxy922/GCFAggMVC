@@ -12,6 +12,7 @@
 # The experiments were conducted on Linux with i9-10900K CPU, 62.5GB RAM and 3090Ti GPU.
 
 # citation
+```
 @InProceedings{Yan_2023_CVPR,
     author    = {Yan, Weiqing and Zhang, Yuanyang and Lv, Chenlei and Tang, Chang and Yue, Guanghui and Liao, Liang and Lin, Weisi},
     title     = {GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering},
@@ -20,5 +21,6 @@
     year      = {2023},
     pages     = {19863-19872}
 }
+```
 
 # If you find the code is useful, please cite the above paper. For any problems, contact me via zhangyuanyang922@gmail.com.
