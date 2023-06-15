@@ -66,7 +66,10 @@ Saving model...
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table1.png"  width="897"  />
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table2.png"  width="897"  />
 
-## 6.Citation
+## 6.Acknowledgments
+Work&Code is inspired by [MFLVC], [DSIMVC], [CONAN](https://github.com/Guanzhou-Ke/conan), [EMC-Nets](https://github.com/Guanzhou-Ke/EMC-Nets), [CoMVC], [COMPLETER] ...
+
+## 7.Citation
 
 If you find our work useful in your research, please consider citing:
 
