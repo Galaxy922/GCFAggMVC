@@ -15,7 +15,7 @@ from dataloader import load_data
 # Caltech-3V
 # Caltech-4V
 # Caltech-5V
-Dataname = 'Synthetic3d'
+Dataname = 'Hdigit'
 parser = argparse.ArgumentParser(description='test')
 parser.add_argument('--dataset', default=Dataname)
 parser.add_argument('--batch_size', default=256, type=int)
