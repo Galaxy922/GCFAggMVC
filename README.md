@@ -65,7 +65,7 @@ Saving model...
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table1.png"  width="897"  />
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table2.png"  width="897"  />
 
-## 7.Citation
+## 6.Citation
 
 If you find our work useful in your research, please consider citing:
 
