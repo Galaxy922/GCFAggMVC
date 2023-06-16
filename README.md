@@ -61,13 +61,9 @@ Clustering results:
 ACC = 0.9700 NMI = 0.8713 PUR=0.9700 ARI = 0.9126
 Saving model...
 ```
-
 ## 5.Experiment Results
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table1.png"  width="897"  />
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table2.png"  width="897"  />
-
-## 6.Acknowledgments
-Work&Code is inspired by [MFLVC](https://github.com/SubmissionsIn/MFLVC), [DSIMVC](https://github.com/Gasteinh/DSIMVC), [CONAN](https://github.com/Guanzhou-Ke/conan), [EMC-Nets](https://github.com/Guanzhou-Ke/EMC-Nets), [CoMVC](https://github.com/DanielTrosten/mvc), [COMPLETER](https://github.com/XLearning-SCU/2021-CVPR-Completer) ...
 
 ## 7.Citation
 
