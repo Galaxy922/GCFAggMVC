@@ -66,11 +66,11 @@ Saving model...
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table1.png"  width="897"  />
 <img src="https://github.com/Galaxy922/GCFAggMVC/blob/main/figs/Table2.png"  width="897"  />
 
-### Acknowledgments
+## 6.Acknowledgments
 
 Work&Code is inspired by [MFLVC](https://github.com/SubmissionsIn/MFLVC), [CONAN](https://github.com/Guanzhou-Ke/conan), [CoMVC](https://github.com/DanielTrosten/mvc) ... 
 
-## 6.Citation
+## 7.Citation
 
 If you find our work useful in your research, please consider citing:
 
