@@ -33,7 +33,7 @@ The code includes:
 - an example for train a new model：
 
 ```bash
-python run.py
+python train.py
 ```
 
 - an example  for test the trained model:
