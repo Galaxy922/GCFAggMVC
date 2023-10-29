@@ -29,7 +29,7 @@ The Synthetic3d, Prokaryotic, and MNIST-USPS datasets are placed in "data" folde
 ## 4.Usage
 <br>
 
-- <font color="red">Before run, please carefully read Obtain-S.docx, and refer to the steps inside it to modify the code in order to obtain S.</font>
+- <p style="color:red;">Before run, please carefully read Obtain-S.docx, and refer to the steps inside it to modify the code in order to obtain S.</p>
 
 - The code includes:
 
