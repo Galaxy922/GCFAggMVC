@@ -60,10 +60,6 @@ Clustering results:
 ACC = 0.9700 NMI = 0.8713 PUR=0.9700 ARI = 0.9126
 Saving model...
 ```
-- This is a <font color="red">How to obtain S:</font>.
-```bash
-If you can't obtain S you can refer Obtain-S.docx
-```
 
 ## 5.Experiment Results
 
