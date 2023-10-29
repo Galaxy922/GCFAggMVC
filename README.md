@@ -27,18 +27,17 @@ scikit-learn>=1.0.2
 The Synthetic3d, Prokaryotic, and MNIST-USPS datasets are placed in "data" folder. The others dataset could be downloaded from [cloud](https://pan.baidu.com/s/1XNWW8UqTcPMkw9NpiKqvOQ). key: data
 
 ## 4.Usage
-<br>
+
 - Before run, please carefully read Obtain-S.docx, and refer to the steps inside it to modify the code in order to obtain S.
 
 - The code includes:
 
-  an example for train a new model：
+an example for train a new model：
 
 ```bash
 python train.py
 ```
-
-  an example  for test the trained model:
+an example  for test the trained model:
   
 ```bash
 python test.py
