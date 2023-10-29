@@ -27,19 +27,18 @@ scikit-learn>=1.0.2
 The Synthetic3d, Prokaryotic, and MNIST-USPS datasets are placed in "data" folder. The others dataset could be downloaded from [cloud](https://pan.baidu.com/s/1XNWW8UqTcPMkw9NpiKqvOQ). key: data
 
 ## 4.Usage
+<br>
 
-
-- Before run, please carefully read Obtain-S.docx, and refer to the steps inside it to modify the code in order to obtain S.
+- <font color="red">Before run, please carefully read Obtain-S.docx, and refer to the steps inside it to modify the code in order to obtain S.</font>
 
 - The code includes:
 
-    an example for train a new model：
+- an example for train a new model：
 
 ```bash
 python train.py
 ```
-
-    an example  for test the trained model:
+- an example  for test the trained model:
 
 ```bash
 python test.py
@@ -64,7 +63,7 @@ Clustering results:
 ACC = 0.9700 NMI = 0.8713 PUR=0.9700 ARI = 0.9126
 Saving model...
 ```
-- How to obtain S:
+- This is a <font color="red">How to obtain S:</font>.
 ```bash
 If you can't obtain S you can refer Obtain-S.docx
 ```
