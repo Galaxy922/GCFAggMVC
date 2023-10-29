@@ -28,18 +28,18 @@ The Synthetic3d, Prokaryotic, and MNIST-USPS datasets are placed in "data" folde
 
 ## 4.Usage
 <br>
-
-- <p style="color:red;">Before run, please carefully read Obtain-S.docx, and refer to the steps inside it to modify the code in order to obtain S.</p>
+- Before run, please carefully read Obtain-S.docx, and refer to the steps inside it to modify the code in order to obtain S.
 
 - The code includes:
 
-- an example for train a new model：
+  an example for train a new model：
 
 ```bash
 python train.py
 ```
-- an example  for test the trained model:
 
+  an example  for test the trained model:
+  
 ```bash
 python test.py
 ```
