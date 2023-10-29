@@ -28,6 +28,8 @@ The Synthetic3d, Prokaryotic, and MNIST-USPS datasets are placed in "data" folde
 
 ## 4.Usage
 
+- Before training, please carefully read Obtain-S.docx, and refer to the steps inside it to modify the code in order to obtain S.
+
 The code includes:
 
 - an example for train a new model：
